@@ -1,7 +1,7 @@
 const searchInput = document.getElementById("searchInput");
 const books = document.querySelectorAll("#bookList li");
 
-// Fixed color scheme
+
  document.body.style.backgroundColor = "#f5f5f5";
  document.querySelector("h1").style.color = "#0d6efd";
 
